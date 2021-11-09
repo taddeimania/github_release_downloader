@@ -1,0 +1,5 @@
+bin/*downloader*
+config.json
+
+.idea/
+.DS_Store
